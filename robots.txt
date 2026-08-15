@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-bwthxi.saturadar88win.xyz/sitemap.xml
